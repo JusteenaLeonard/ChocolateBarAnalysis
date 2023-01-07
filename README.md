@@ -8,3 +8,6 @@ some to create the perfect chocolate bar.
 ## DATA
 Open source data from The Manhattan Chocolate Society.
 [Customer Data Set](http://flavorsofcacao.com/chocolate_database.html)
+
+## Tableau Link
+[Tableau](https://public.tableau.com/app/profile/justeena.leonard/viz/ChoclateBarAnalysisFinal/Story1?publish=yes)
