@@ -13,4 +13,4 @@ Country Bean of Origin, Specific Bean Origin or Bar Name, Cacoa Percent, Ingredi
 [Customer Data Set](http://flavorsofcacao.com/chocolate_database.html)
 
 ## Tableau Link
-[Tableau](https://public.tableau.com/app/profile/justeena.leonard/viz/ChoclateBarAnalysisFinal/Story1?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/justeena.leonard/viz/ChoclateBarAnalysisFinal_2/Story1)
